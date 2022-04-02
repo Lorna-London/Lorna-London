@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lorna-London
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a variety of projects. 
 - 📫 How to reach me https://www.linkedin.com/in/lorna-london
 
 <!---
