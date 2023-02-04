@@ -2,7 +2,7 @@
 - 👀 I'm interested in front-end development 
 - 🌱 I’m currently learning JavaScript, DSA and React
 - 💞️ I’m looking to collaborate on a variety of projects 
-- 📫 How to reach me https://www.linkedin.com/in/lorna-london
+- 
 
 <!---
 Lorna-London/Lorna-London is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
