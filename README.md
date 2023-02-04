@@ -1,4 +1,4 @@
-Err- 👋 Hi, I’m @Lorna-London
+- 👋 Hi, I’m @Lorna-London
 - 👀 I'm interested in front-end development 
 - 🌱 I’m currently learning JavaScript, DSA and React
 - 💞️ I’m looking to collaborate on a variety of projects 
