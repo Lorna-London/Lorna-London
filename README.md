@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lorna-London
-- 👀 I'm interested in front-end development
+- 👀 Interested in front-end development
 - 🌱 Currently learning React and working on my portfolio
 - 💞️ Open to collaborating on a variety of projects 
 
