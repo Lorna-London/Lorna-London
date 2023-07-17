@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lorna-London
 - 👀 I'm interested in front-end development
-- 🌱 I’m currently learning React and working on my portfolio
-- 💞️ I’m looking to collaborate on a variety of projects 
+- 🌱 Currently learning React and working on my portfolio
+- 💞️ Open to collaborating on a variety of projects 
 
 
 <!---
