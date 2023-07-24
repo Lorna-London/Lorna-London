@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lorna-London
-- 👀 I'm a front-end developer
+- 👀 I'm interested in front-end development
 - 🌱 Currently learning JavasScript, React and DSA
 - 💞️ Open to collaborating on a variety of projects 
 
