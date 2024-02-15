@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lorna-London
-- 👀 I'm interested in frontend development
+- 👀 I'm a software developer specialising in frontend
 - 🌱 Currently learning React and DSA
 - 💞️ Open to collaborating on a variety of projects 
 
