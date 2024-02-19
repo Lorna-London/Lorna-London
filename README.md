@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lorna-London
-- 👀 I'm a frontend developer with a passion for responsive design
+- 👀 I'm a frontend developer with a passion for responsive design and accessibility
 - 🌱 Currently learning React and DSA
 - 💞️ Open to collaborating on a variety of projects 
 
